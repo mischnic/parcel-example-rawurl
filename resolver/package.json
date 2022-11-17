@@ -1,0 +1,7 @@
+{
+	"name": "parcel-resolver-test",
+	"version": "0.0.0",
+	"engines": {
+		"parcel": "^2.0.0"
+	}
+}
